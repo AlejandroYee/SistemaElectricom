@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text_h2"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"apell",
+				"apellidomat"
+			],
+			[
+				"apel",
+				"apellidopat"
+			],
+			[
+				"apelli",
+				"apellidomat"
+			],
+			[
+				"apellido",
+				"apellidopat"
+			],
+			[
+				"id",
+				"idregistro"
+			],
+			[
+				"ap",
+				"apellidom"
+			],
+			[
+				"user",
+				"userForm"
+			],
+			[
+				"Modal",
+				"ModalAgenda"
+			],
+			[
+				"btn",
+				"btncalc"
+			],
+			[
+				"onk",
+				"onkeyup\tAttr"
+			],
+			[
+				"onpres",
+				"onkeypress\tAttr"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"a",
+				"apellidopat"
+			],
+			[
+				"pul",
+				"pull-left"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"actua",
+				"actualtotal"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/SistemaElectricom",
+		"/C/xampp/htdocs/SistemaElectricom/Electricom"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/factor/alimentos.html",
+		"/C/xampp/htdocs/factor/cursos.html",
+		"/C/xampp/htdocs/factor/redes.html",
+		"/C/xampp/htdocs/factor/index.html",
+		"/C/xampp/htdocs/factor/reg.html",
+		"/C/xampp/htdocs/factor/cursos2.html",
+		"/C/xampp/htdocs/factor/proximamente.html",
+		"/C/xampp/htdocs/factor/contact.php",
+		"/C/xampp/htdocs/factor/favicon.ico",
+		"/C/xampp/htdocs/factor2/reg.html",
+		"/C/xampp/htdocs/factor2/cursos.html",
+		"/C/xampp/htdocs/factor2/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/factor/factor/min/plugin-min.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/factor/factor/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/factor/factor/css/style.css",
+		"/C/Program Files (x86)/StarUML/www/license/node/LicenseManagerDomain.js",
+		"/C/Users/Alejandro Yee/Documents/Electricom/factor/factor/nosotros.html",
+		"/C/xampp/htdocs/ginecologia3/citas.php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/contact.php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/css/materialize.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/min/plugin-min.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/css/style.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/min/custom-min.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/material-design-template-master/material-design-template-master/www/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/templated-transitive/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/EjemplosF3/html5-boilerplate_v6.0.1/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/css/webflow.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/css/normalize.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/css/search-icon.svg",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/index.html",
+		"/C/xampp/htdocs/ginecologia3/home.php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/css/dribbble.svg",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/css/nasa-site.webflow.css",
+		"/C/Users/Alejandro Yee/Documents/Electricom/Factor3/js/webflow.js",
+		"/C/xampp/htdocs/ginecologia3/ingresoPaciente.php",
+		"/C/xampp/htdocs/ginecologia2/ginecologia/ajax-grid-data.php",
+		"/C/xampp/htdocs/ginecologia3/ajax-grid-data.php",
+		"/C/xampp/htdocs/ginecologia3/pacientes.php",
+		"/C/xampp/htdocs/ginecologia3/colpo.php",
+		"/C/xampp/htdocs/ginecologia3/contactos.php",
+		"/C/xampp/htdocs/ginecologia3/inc/registra2.php",
+		"/C/xampp/htdocs/ginecologia2/ginecologia/inc/registra.php",
+		"/C/xampp/htdocs/ginecologia3/inc/reg/regcontacto.php",
+		"/C/xampp/htdocs/ginecologia3/ajax-grid-data3.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/24-04-18/Validar formulario con js/index.php",
+		"/C/Users/Alejandro Yee/Desktop/JUAN/citas(modal).php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/citas.php",
+		"/C/xampp/htdocs/citas.php",
+		"/C/xampp/htdocs/ginecologia/ajax-grid-data3.php",
+		"/C/xampp/htdocs/ginecologia3/js/pay.js",
+		"/C/xampp/htdocs/ginecologia3/consulta.php",
+		"/C/xampp/htdocs/ginecologia3/js/script.js",
+		"/C/xampp/htdocs/ginecologia3/js/main.js",
+		"/C/xampp/htdocs/ginecologia3/inc/reg/regagenda.php",
+		"/C/xampp/htdocs/ginecologia3/inc/registra.php",
+		"/C/xampp/htdocs/ginecologia4/contactos.php",
+		"/C/xampp/htdocs/ginecologia3/inc/regcontacto.php",
+		"/C/xampp/htdocs/ginecologia4/consulta.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/index.html",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.bootstrap4.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.bootstrap4.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.foundation.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.foundation.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.jqueryui.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.jqueryui.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.semanticui.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.semanticui.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/jquery.dataTables.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/jquery.dataTables.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.bootstrap.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/DataTables-1.10.16/js/dataTables.bootstrap.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/DataTables/datatables.js",
+		"/C/xampp/htdocs/ginecologia4/ingresoPaciente.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/Validar formulario con js/js/validacion.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/ajax-live-search-master/ajax-live-search-master/index.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/ajax-live-search-master/ajax-live-search-master/core/AjaxProcessor.php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/GinecologiaLencho-19-04-18/ginecologia/ginecologia3/ingresoPaciente.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/Validar formulario con js/index.html",
+		"/C/Users/Alejandro Yee/Documents/Electricom/GinecologiaLencho-19-04-18/ginecologia/ginecologia3/js/script.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/20-04-18/Validar formulario con js/validacion.js",
+		"/C/xampp/htdocs/ginecologia3/ajax-grid-data2.php",
+		"/C/xampp/htdocs/ginecologia3/guardar_foto.php",
+		"/C/xampp/htdocs/ginecologia/citas.php",
+		"/C/Users/Alejandro Yee/Documents/GitHub/Clinica/ginecologia3/index.php",
+		"/C/xampp/htdocs/ginecologia/ingresoPaciente.php",
+		"/C/xampp/htdocs/ginecologia3/config.xml",
+		"/C/Users/Alejandro Yee/Documents/GitHub/Clinica/config.xml",
+		"/C/Users/Alejandro Yee/Documents/GitHub/Clinica/ginecologia3/index.html",
+		"/C/xampp/htdocs/CalcEPPEG/tool_embarazo.php",
+		"/C/xampp/htdocs/CalcEPPEG/js/ValidarRut.js",
+		"/C/xampp/htdocs/ginecologia/js/main.js",
+		"/C/xampp/htdocs/ginecologia/js/pay.js",
+		"/C/xampp/htdocs/ginecologia/payments.php",
+		"/C/Users/Alejandro Yee/Documents/Electricom/GinecologiaLencho-19-04-18/ginecologia/ginecologia3/ingresoPaciente2.php",
+		"/C/xampp/htdocs/ginecologia/pacientes.php",
+		"/C/xampp/htdocs/ginecologia/ajax-grid-data.php",
+		"/C/xampp/htdocs/ginecologia/ajax-grid-data2.php",
+		"/C/xampp/htdocs/ginecologia2/ginecologia/citas.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/18-04-18/webcamjs-master/webcamjs-master/webcam.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/18-04-18/webcamjs-master/webcamjs-master/index.html",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/18-04-18/webcamjs-master/webcamjs-master/webcam.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/11-04-18/Validar formulario con js/formularios.html",
+		"/C/xampp/htdocs/ajax-search-box-master/views/index.html",
+		"/C/xampp/htdocs/busquedajqueryajax/index.php",
+		"/C/xampp/htdocs/busquedajqueryajax/sql/busqueda_ajax.sql",
+		"/C/xampp/htdocs/busquedajqueryajax/php/db.php",
+		"/C/xampp/htdocs/busquedajqueryajax/php/request_ajax.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/ajax-box-php-master/ajax-box-php-master/index.html",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/ajax-box-php-master/ajax-box-php-master/typeahead.min.js",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/ajax-box-php-master/ajax-box-php-master/search.php",
+		"/C/xampp/htdocs/search_ajax_php-master/conn/connect.php",
+		"/C/xampp/htdocs/Grocery-Crud/application/config/config.php",
+		"/C/xampp/htdocs/Grocery-Crud/application/config/database.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/Buscador-master/Buscador-master/index.php",
+		"/C/xampp/htdocs/search_ajax_php-master/index.php",
+		"/C/xampp/htdocs/search_ajax_php-master/php/buscador.php",
+		"/C/xampp/htdocs/search_ajax_php-master/js/ajax.js",
+		"/C/xampp/htdocs/search_ajax_php-master/js/jquery.min.js",
+		"/C/xampp/htdocs/search_ajax_php-master/articulo.php",
+		"/C/xampp/htdocs/buscadorajax-master/proc2.php",
+		"/C/xampp/htdocs/buscadorajax-master/ajax.js",
+		"/C/xampp/htdocs/buscadorajax-master/index.php",
+		"/C/xampp/htdocs/buscadorajax-master/proc.php",
+		"/C/xampp/htdocs/buscadorajax-master/conexion.php",
+		"/C/xampp/htdocs/Busquedaphp1/formulario.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/Validar formulario con js/formulario.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/Validar formulario con js/search.php",
+		"/C/Users/Alejandro Yee/Downloads/Ejemplos Git/17-04-18/ajax-search-box-master/ajax-search-box-master/views/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jpg",
+			"\">\n",
+			"bootstrap",
+			"span",
+			"brand-logo",
+			"text_h2",
+			"logo",
+			"mdi-image-flash-on",
+			"26a69a",
+			"active",
+			"span_h2",
+			"active",
+			"mdi-action-account-circle",
+			"mdi-action-account",
+			"mdi-action-account-circle",
+			"mdi-action-account-circle prefix blue-text",
+			"2196f3",
+			"2196",
+			"2196F3",
+			"conta",
+			"añadir",
+			"lookup",
+			"busqueda",
+			"{\n",
+			"modal_form",
+			"modal_nombre2",
+			"modal_idregistro",
+			"modal_nombre",
+			"modal_idregistro",
+			"input",
+			"modal_tie",
+			"modal_idregistro",
+			"inc/registra",
+			"inc/",
+			"inner",
+			"modalage",
+			"send",
+			"nombre",
+			"$nombre",
+			"opciones",
+			"});",
+			"ninoenf",
+			"ajax",
+			"row",
+			"tieneSoporteUserMedia",
+			"cam",
+			"agenda",
+			"lookup",
+			"$nombre",
+			"enviar",
+			"cordova",
+			"pactual",
+			"month",
+			"fur",
+			"pag_noticias",
+			"form1",
+			"escolaridad",
+			"look",
+			"consulta",
+			"con",
+			"mysql",
+			"$mysql",
+			"con",
+			"<?",
+			"lista",
+			"#lista",
+			".lista",
+			"lista",
+			":></",
+			".form-control",
+			"nav-tabs",
+			".nav-tabs",
+			"nav nav-tabs",
+			"zmdi zmdi-floppy",
+			"checkrut",
+			"reca",
+			"descuento",
+			"costo",
+			"main",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SistemaElectricom.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
